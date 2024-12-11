@@ -15,7 +15,7 @@ Hello! I'm Geronimo Perez, a passionate Data Engineer. This portfolio showcases 
    - **Technologies**: Python, Pandas, PostgreSQL
    - **Status**: Finished
 
-3. **Wine Reviews Data Pipeline**  
+3. **Wine Reviews Data Pipeline  (https://github.com/ElProleOP/Wine-Reviews)**  
    - **Description**: Designed and implemented a data pipeline for processing wine reviews from a CSV file. The pipeline includes data extraction, cleaning, and storage in an SQLite3 database.  
    - **Technologies**: Python, SQLite3, Bash.  
    - **Highlights**:  
