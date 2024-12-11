@@ -15,6 +15,13 @@ Hello! I'm Geronimo Perez, a passionate Data Engineer. This portfolio showcases 
    - **Technologies**: Python, Pandas, PostgreSQL
    - **Status**: Finished
 
+3. **Wine Reviews Data Pipeline**  
+   - **Description**: Designed and implemented a data pipeline for processing wine reviews from a CSV file. The pipeline includes data extraction, cleaning, and storage in an SQLite3 database.  
+   - **Technologies**: Python, SQLite3, Bash.  
+   - **Highlights**:  
+     - Automated the pipeline with a Python script, including change logging.  
+     - Developed a Bash script for seamless initiation of the process. 
+
 ## Technical Skills
 
 - **Programming**: Python, SQL, JavaScript.  
@@ -29,4 +36,4 @@ I am currently developing my skills in data engineering through hands-on project
 
 ## Contact
 
-Feel free to connect with me on www.linkedin.com/in/gerónimoperez or explore my work here on GitHub! 😊  
+Feel free to connect with me on www.linkedin.com/in/geronimoperezd or explore my work here on GitHub! 😊  
