@@ -4,7 +4,7 @@ Hello! I'm Geronimo Perez, a passionate Data Engineer. This portfolio showcases 
 
 ## Projects
 
-1. **[Movie Recommendation System]**  
+1. **Movie Recommendation System   (https://github.com/ElProleOP/movies_rec)**  
    - **Description**: Ongoing project that involves end-to-end implementation of a movie recommendation system, including data cleaning, storage, and machine learning.  
    - **Technologies**: Python, Pandas, PostgreSQL, Machine Learning.  
    - **Status**: Work in progress, with regular updates.  
